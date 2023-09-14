@@ -24,5 +24,6 @@ class Table extends Model
         'table_number',
         'description',
         'accessibility',
+        'capacity',
     ];
 }
